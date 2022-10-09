@@ -71,9 +71,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [GitMaster511 (me)]()
-* [FatRat]()
-* []()
+* [GitMaster511 (me)](https://github.com/Gitmaster511)
+* [FatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
+* [Helpful people on stackoverflow, especially this thread](https://stackoverflow.com/questions/28438247/computer-shut-off-python-3-4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
