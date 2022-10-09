@@ -1,4 +1,0 @@
-playsound
-PyObjC
-
-#don't have a windows pc so none of this is tested
