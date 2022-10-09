@@ -1,0 +1,4 @@
+playsound
+PyObjC
+
+#sorry for the large file download, idk why this need PyObjC
