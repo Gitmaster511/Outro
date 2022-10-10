@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [GitMaster511 (me)](https://github.com/Gitmaster511)
 * [FatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
 * [Helpful people on stackoverflow, especially this thread](https://stackoverflow.com/questions/28438247/computer-shut-off-python-3-4)
-* [Templete for the README](https://github.com/othneildrew/Best-README-Template)
+* [Template for the README](https://github.com/othneildrew/Best-README-Template)
 
 <p align="middle">(<a href="#readme-top">back to top</a>)</p>
 
