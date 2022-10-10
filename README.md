@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
    ```
    2. Open it in terminal
    ```sh
-   cd outro ...
+   cd outro
    ```
 2. Install requirements
    ```sh
