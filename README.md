@@ -1,13 +1,13 @@
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-Music credits: FatRat -  Xenogenesis  (awesome song btw)
+Music credits: FatRat - Xenogenesis (awesome song btw)
 
-This is a simple outro script for your pc. 
-
-
+This is a simple outro script for your pc.
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -23,22 +23,23 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    cd outro ...
    ```
-3. Choose which version you want (cd Mac OR cd Windows) (Windows is untested)
-   ```sh
-   cd Mac (example)
-   ```
-4. Install requirements
+2. Install requirements
    ```sh
    pip3 install requirements.txt
    ```
-5. Run code 
+3. Choose which version you want (cd Mac or cd Windows) (Windows is untested)
+
+   ```sh
+   cd Mac (example)
+   ```
+
+4. Run code
    ```sh
    sudo python3 shutdown.py
    ```
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -52,22 +53,19 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [GitMaster511 (me)](https://github.com/Gitmaster511)
-* [FatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
-* [Helpful people on stackoverflow, especially this thread](https://stackoverflow.com/questions/28438247/computer-shut-off-python-3-4)
-* [Template for the README](https://github.com/othneildrew/Best-README-Template)
+- [GitMaster511 (me)](https://github.com/Gitmaster511)
+- [FatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
+- [Helpful people on stackoverflow, especially this thread](https://stackoverflow.com/questions/28438247/computer-shut-off-python-3-4)
+- [Template for the README](https://github.com/othneildrew/Best-README-Template)
 
 <p align="middle">(<a href="#readme-top">back to top</a>)</p>
-
-
