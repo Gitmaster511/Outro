@@ -32,8 +32,8 @@ def countdown():
     print("1..")
     time.sleep(0.5)
     print("Goodbye")
-    time.sleep(1.5)
-    os.system("shutdown -h now")
+    time.sleep(1)
+    #os.system("shutdown -h now")
 
 
 if os.getuid() != 0:
