@@ -10,21 +10,17 @@ def sound():
 
 
 def countdown():
-    i = 10
-
-    while i > 0:
-        j = str(i)
-        print("Shutting Down in " + j + "...")
+    for i in range(10):
+        print(f"Shutting Down in {10 - i}... ")
         time.sleep(2.2)
-        i = i - 1
     print("Goodbye :)")
     ctypes.windll.user32.LockWorkStation()
 
 
 if os.getuid() != 0:
-    print("run as root")
+    print("run as admin")
     exit(0)
 
-elif __name__ == '__main__':
+if __name__ == '__main__':
     Thread(target=countdown).start()
     Thread(target=sound).start()
