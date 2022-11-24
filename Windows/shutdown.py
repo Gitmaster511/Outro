@@ -14,12 +14,8 @@ def countdown():
         print(f"Shutting Down in {10 - i}... ")
         time.sleep(2.2)
     print("Goodbye :)")
-    ctypes.windll.user32.LockWorkStation()
+    os.system("shutdown /f")
 
-
-if os.getuid() != 0:
-    print("run as admin")
-    exit(0)
 
 if __name__ == '__main__':
     Thread(target=countdown).start()
